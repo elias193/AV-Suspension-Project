@@ -149,7 +149,7 @@ The results should be interpreted as a comparative numerical study of suspension
 
 ## Authors
 
-Elias Klestinis
+Elias Klestinis,
 Zachary Earl
 
 Advanced Vibrations Project
