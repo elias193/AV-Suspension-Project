@@ -152,6 +152,6 @@ The results should be interpreted as a comparative numerical study of suspension
 Elias Klestinis,
 Zachary Earl
 
-Advanced Vibrations Project
-University of Adelaide
+Advanced Vibrations Project,
+University of Adelaide,
 2026
