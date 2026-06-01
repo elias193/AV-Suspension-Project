@@ -1,0 +1,4 @@
+Case,baseline_k_s_N_per_m,baseline_c_s_Ns_per_m,selected_k_s_N_per_m,selected_c_s_Ns_per_m
+Comfort,15000,1200,10000,1150
+Rally,25000,2000,18000,2300
+Track,40000,2850,30000,3600
