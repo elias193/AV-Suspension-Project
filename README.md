@@ -16,7 +16,6 @@ Two vehicle vibration models are used:
 ## Repository structure
 
 ```text
-```text
 AV-Suspension-Project/
 │
 ├── MATLAB/
@@ -47,8 +46,6 @@ AV-Suspension-Project/
 │
 ├── .gitignore
 └── README.md
-```
-
 ```
 
 ## MATLAB scripts
