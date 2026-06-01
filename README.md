@@ -16,13 +16,14 @@ Two vehicle vibration models are used:
 ## Repository structure
 
 ```text
+```text
 AV-Suspension-Project/
 │
 ├── MATLAB/
 │   ├── quarter_car_initial_vibration_analysis_balanced_score_v2.m
 │   └── half_car_pitch_initial_analysis.m
 │
-├── CSV_Results/
+├── CSV_Quarter/
 │   ├── quarter_car_parameters.csv
 │   ├── quarter_car_natural_frequencies.csv
 │   ├── quarter_car_bump_response_summary.csv
@@ -31,15 +32,23 @@ AV-Suspension-Project/
 │   ├── quarter_car_frequency_response_low_frequency.csv
 │   ├── comfort_parameter_sweep.csv
 │   ├── rally_parameter_sweep.csv
-│   ├── track_parameter_sweep.csv
+│   └── track_parameter_sweep.csv
+│
+├── CSV_Half/
 │   ├── half_car_pitch_natural_frequencies.csv
 │   ├── half_car_pitch_bump_response_summary.csv
 │   └── half_car_pitch_frequency_response_summary.csv
 │
-├── Figures/
-│   └── exported figure files, if included
+├── Figures_Quarter/
+│   └── exported quarter-car figure files
 │
+├── Figures_Half/
+│   └── exported half-car figure files
+│
+├── .gitignore
 └── README.md
+```
+
 ```
 
 ## MATLAB scripts
